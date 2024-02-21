@@ -1,0 +1,207 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-02-21T03:53:28.120646",
+    "startedAt": "2024-02-21T03:53:23.871952",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/WMWMW1/LM_qlora_dataset_mistral7b.git",
+        "commit": "4d5070047c3e58c306eced98ba257c228a831825"
+    },
+    "email": "wenjunyang89@gmail.com",
+    "root": "/home/qwe/LM_qlora_dataset_mistral7b",
+    "host": "x",
+    "username": "qwe",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2995.198999999998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.199,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 250.98248672485352,
+            "used": 36.13521957397461
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 31.236785888671875
+    }
+}

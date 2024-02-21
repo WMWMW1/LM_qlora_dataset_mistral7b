@@ -1,0 +1,24 @@
+tokenizer_config.json: 100%|██████████| 17.0/17.0 [00:00<00:00, 76.6kB/s]
+config.json: 100%|██████████| 577/577 [00:00<00:00, 706kB/s]
+vocab.json: 100%|██████████| 899k/899k [00:00<00:00, 3.04MB/s]
+merges.txt: 100%|██████████| 456k/456k [00:00<00:00, 2.03MB/s]
+special_tokens_map.json: 100%|██████████| 90.0/90.0 [00:00<00:00, 67.0kB/s]
+Downloading readme: 100%|██████████| 7.81k/7.81k [00:00<00:00, 11.7MB/s]
+Downloading data: 100%|██████████| 21.0M/21.0M [00:00<00:00, 34.8MB/s]
+Downloading data: 100%|██████████| 20.5M/20.5M [00:00<00:00, 40.7MB/s]
+Downloading data: 100%|██████████| 42.0M/42.0M [00:00<00:00, 44.5MB/s]
+Generating train split: 100%|██████████| 25000/25000 [00:00<00:00, 360241.31 examples/s]
+Generating test split: 100%|██████████| 25000/25000 [00:00<00:00, 424978.92 examples/s]
+Generating unsupervised split: 100%|██████████| 50000/50000 [00:00<00:00, 454005.65 examples/s]
+Filter: 100%|██████████| 25000/25000 [00:00<00:00, 395377.23 examples/s]
+Map:   0%|          | 0/24895 [00:00<?, ? examples/s]Token indices sequence length is longer than the specified maximum sequence length for this model (1168 > 1024). Running this sequence through the model will result in indexing errors
+
+
+
+
+Map: 100%|██████████| 24895/24895 [00:11<00:00, 2250.72 examples/s]
+
+
+pytorch_model.bin: 100%|██████████| 548M/548M [00:05<00:00, 102MB/s]
+/home/qwe/.local/lib/python3.10/site-packages/torch/_utils.py:831: UserWarning: TypedStorage is deprecated. It will be removed in the future and UntypedStorage will be the only storage class. This should only matter to you if you are using storages directly.  To access UntypedStorage directly, use tensor.untyped_storage() instead of tensor.storage()
+  return self.fget.__get__(instance, owner)()
