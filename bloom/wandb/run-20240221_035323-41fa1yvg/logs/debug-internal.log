@@ -3691,3 +3691,6 @@
 2024-02-21 07:23:57,982 DEBUG   HandlerThread:22077 [handler.py:handle_request():146] handle_request: status_report
 2024-02-21 07:24:00,858 DEBUG   HandlerThread:22077 [handler.py:handle_request():146] handle_request: internal_messages
 2024-02-21 07:24:00,976 DEBUG   SenderThread:22077 [sender.py:send():382] send: stats
+2024-02-21 07:24:03,978 DEBUG   HandlerThread:22077 [handler.py:handle_request():146] handle_request: status_report
+2024-02-21 07:24:06,334 DEBUG   HandlerThread:22077 [handler.py:handle_request():146] handle_request: keepalive
+2024-02-21 07:24:08,979 DEBUG   HandlerThread:22077 [handler.py:handle_request():146] handle_request: status_report
